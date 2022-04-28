@@ -1,4 +1,4 @@
-# Flashcard-App: A digital flashcard application
+# Flashcard-App:
  A react application for a "local school". Teachers will use this application to create decks of flashcards for the subjects they teach, and students will study the decks.
 
 ## Overview
